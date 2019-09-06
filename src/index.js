@@ -8,11 +8,11 @@ import mapAndPluck from "./js/mapAndPluck";
 import mergeAndConcat from "./js/mergeAndConcat";
 import mergeMapAndSwitchMap from "./mergeMapAndSwitchMap";
 
-// observableFromEvents();
-// observablesFromArrays();
-// observablesFromScratch();
-// observablesFromPromise();
-// intervals();
-//mapAndPluck();
+observableFromEvents();
+observablesFromArrays();
+observablesFromScratch();
+observablesFromPromise();
+intervals();
+mapAndPluck();
 mergeAndConcat();
 mergeMapAndSwitchMap();
